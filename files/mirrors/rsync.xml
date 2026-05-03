@@ -340,6 +340,10 @@ vim: ft=xml et ts=2 sts=2 sw=2:
       <name>Keiverse - rsync2.kr.gentoo.org</name>
       <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync2.kr.gentoo.org</uri>
     </mirror>
+    <mirror>
+      <name>Keiverse 2 - rsync3.kr.gentoo.org</name>
+      <uri protocol="rsync" ipv4="y" ipv6="n" partial="n">rsync://rsync3.kr.gentoo.org</uri>
+    </mirror>
   </mirrorgroup>
   <mirrorgroup region="Asia (rsync.asia.gentoo.org)" country="RU" countryname="Russia">
     <mirror>
